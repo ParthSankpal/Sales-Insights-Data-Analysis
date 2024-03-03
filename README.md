@@ -17,8 +17,5 @@ This project focuses on extracting actionable sales insights from a company's tr
 - The dataset used in this project includes transactional data of a retail company, covering sales across multiple regions and spanning several years. It contains detailed information about orders, customers, --- 
   products, and sales figures.
 
-Prerequisites
-To interact with the Power BI report:
-
 
 
